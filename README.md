@@ -18,7 +18,4 @@ Netbeans 8.2
 phpmyadmin
 Kenny N.
 
-
-x-special/nautilus-clipboard
-copy
-file:///home/kenny/Desktop/imagens/Screenshot%20from%202020-07-20%2023-03-41.png
+![alt text](https://github.com/kennynakamura/Registro-de-alunos-JAVA/blob/master/img2.png?raw=true)
