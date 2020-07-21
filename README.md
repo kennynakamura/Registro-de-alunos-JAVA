@@ -17,3 +17,8 @@ Software utilizado:
 Netbeans 8.2
 phpmyadmin
 Kenny N.
+
+
+x-special/nautilus-clipboard
+copy
+file:///home/kenny/Desktop/imagens/Screenshot%20from%202020-07-20%2023-03-41.png
